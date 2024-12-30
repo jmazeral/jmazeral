@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Justus 
 
-<!--
-**jmazeral/jmazeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student at UWaterloo, graduating eventually.
 
-Here are some ideas to get you started:
+## 😄 Pronouns:
+he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ **Interests:** 
+I find myself bouncing around between different languages and subjects, but right now I'm super into web development and machine learning.
+
+## 💬 **Skills:**
+I'm always learning new things, but I feel confident in a handful of stuff:
+- Python
+- pandas
+- HTML/CSS
+- JS
+- I can do a derivative pretty well but don't ask me about integrals
+
+## 🔭 **Working on:**
+Surviving school while working on my passion (just check my repos man)
+
