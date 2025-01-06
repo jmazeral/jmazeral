@@ -6,7 +6,7 @@ CS Student at UWaterloo, graduating eventually.
 he/him
 
 ## ⚡ **Interests:** 
-I find myself bouncing around between different languages and subjects, but right now I'm super into web development and machine learning.
+I find myself bouncing around between different languages and subjects, but right now I'm super into web development.
 
 ## 💬 **Skills:**
 I'm always learning new things, but I feel confident in a handful of stuff:
